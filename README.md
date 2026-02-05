@@ -1,5 +1,17 @@
 # FlexiDays – Leave Management Dashboard
 
+<h1 align="center">
+	<img
+		width="300"
+		alt="FlixiDats"
+		src="images/icone.png">
+</h1>
+
+<h3 align="center">
+	leave management application
+</h3>
+
+
 FlexiDays is a web application designed to simplify employee leave management.  
 It allows employees to track their leave balance and submit requests, while managers and HR teams can approve, reject, and monitor all leave requests through a centralized dashboard.
 
@@ -61,9 +73,9 @@ The project was developed in two main phases:
 ### Frontend
 - HTML5 (semantic structure)
 - CSS3 (Flexbox, Grid, animations)
-- Bootstrap or Tailwind CSS
+- Tailwind CSS
 - JavaScript (DOM manipulation)
-- Fetch API or Axios
+- Axios
 
 ### Backend (Mock)
 - JSON Server (RESTful API)
@@ -117,4 +129,5 @@ Write clean, structured, and maintainable code
 ## 📚 Project Context
 
 This project was developed as part of a frontend web development training program, focusing on UI/UX design, responsive integration, and frontend-backend communication using a mock API.
+
 
