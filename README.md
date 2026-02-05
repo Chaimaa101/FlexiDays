@@ -3,8 +3,8 @@
 <h1 align="center">
 	<img
 		width="300"
-		alt="FlixiDats"
-		src="images/icone.png">
+		alt="FlexiDays"
+		src="Images/icon.png">
 </h1>
 
 <h3 align="center">
@@ -129,5 +129,6 @@ Write clean, structured, and maintainable code
 ## 📚 Project Context
 
 This project was developed as part of a frontend web development training program, focusing on UI/UX design, responsive integration, and frontend-backend communication using a mock API.
+
 
 
